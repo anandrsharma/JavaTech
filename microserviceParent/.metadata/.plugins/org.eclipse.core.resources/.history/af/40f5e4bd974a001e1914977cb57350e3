@@ -1,0 +1,16 @@
+package com.spring.ztest;
+
+import java.util.HashMap;
+import java.util.Map;
+
+public class Exam {
+
+	public static void main(String[] args) {
+		String input[][] = { {"Ram","87"}, {"Shyam","60"}, {"Ghanshyam","20"}, {"Ram","13"}, {"Shyam","30"} };
+		System.out.println(input.toString());
+		Map h = new HashMap();
+		//for()
+
+	}
+
+}
